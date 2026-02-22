@@ -5,5 +5,12 @@
     "utc": "2026-02-22T21:26:26Z",
     "expires_utc": "2026-02-22T22:11:26Z",
     "app": "Branded Table Generator"
+  },
+  "gauthambc": {
+    "user": "gauthambc",
+    "action": "login",
+    "utc": "2026-02-22T21:27:47Z",
+    "expires_utc": "2026-02-22T22:12:47Z",
+    "app": "Branded Table Generator"
   }
 }
