@@ -15,9 +15,9 @@
   },
   "benbc": {
     "user": "benbc",
-    "action": "login",
-    "utc": "2026-04-07T16:39:36Z",
-    "expires_utc": "2026-04-07T17:24:36Z",
+    "action": "heartbeat",
+    "utc": "2026-04-07T16:39:38Z",
+    "expires_utc": "2026-04-07T17:24:38Z",
     "app": "Branded Table Generator"
   }
 }
