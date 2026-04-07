@@ -5,5 +5,12 @@
     "utc": "2026-04-07T20:42:46Z",
     "expires_utc": "2026-04-07T21:27:46Z",
     "app": "Branded Table Generator"
+  },
+  "benbc": {
+    "user": "benbc",
+    "action": "login",
+    "utc": "2026-04-07T20:43:18Z",
+    "expires_utc": "2026-04-07T21:28:18Z",
+    "app": "Branded Table Generator"
   }
 }
