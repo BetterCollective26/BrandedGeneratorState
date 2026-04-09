@@ -1,16 +1,9 @@
 {
   "gauthambc": {
     "user": "gauthambc",
-    "action": "heartbeat",
-    "utc": "2026-04-07T20:42:46Z",
-    "expires_utc": "2026-04-07T21:27:46Z",
-    "app": "Branded Table Generator"
-  },
-  "benbc": {
-    "user": "benbc",
-    "action": "heartbeat",
-    "utc": "2026-04-07T20:46:08Z",
-    "expires_utc": "2026-04-07T21:31:08Z",
+    "action": "login",
+    "utc": "2026-04-09T06:00:10Z",
+    "expires_utc": "2026-04-09T06:45:10Z",
     "app": "Branded Table Generator"
   }
 }
