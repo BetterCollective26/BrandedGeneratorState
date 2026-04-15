@@ -1,16 +1,9 @@
 {
-  "kathybc": {
-    "user": "kathybc",
-    "action": "heartbeat",
-    "utc": "2026-04-14T15:24:01Z",
-    "expires_utc": "2026-04-14T16:09:01Z",
-    "app": "Branded Table Generator"
-  },
   "amybc": {
     "user": "amybc",
-    "action": "heartbeat",
-    "utc": "2026-04-14T15:22:35Z",
-    "expires_utc": "2026-04-14T16:07:35Z",
+    "action": "login",
+    "utc": "2026-04-15T09:42:32Z",
+    "expires_utc": "2026-04-15T10:27:32Z",
     "app": "Branded Table Generator"
   }
 }
