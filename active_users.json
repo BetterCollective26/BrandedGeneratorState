@@ -8,9 +8,9 @@
   },
   "kathybc": {
     "user": "kathybc",
-    "action": "login",
-    "utc": "2026-04-16T19:55:55Z",
-    "expires_utc": "2026-04-16T20:40:55Z",
+    "action": "heartbeat",
+    "utc": "2026-04-16T19:55:57Z",
+    "expires_utc": "2026-04-16T20:40:57Z",
     "app": "Branded Table Generator"
   }
 }
