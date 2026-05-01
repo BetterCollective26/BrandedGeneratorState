@@ -1,9 +1,9 @@
 {
   "gauthambc": {
     "user": "gauthambc",
-    "action": "heartbeat",
-    "utc": "2026-05-01T11:44:22Z",
-    "expires_utc": "2026-05-01T12:29:22Z",
+    "action": "login",
+    "utc": "2026-05-01T11:44:52Z",
+    "expires_utc": "2026-05-01T12:29:52Z",
     "app": "Branded Table Generator"
   }
 }
