@@ -1,23 +1,9 @@
 {
-  "amybc": {
-    "user": "amybc",
-    "action": "heartbeat",
-    "utc": "2026-05-03T13:13:02Z",
-    "expires_utc": "2026-05-03T13:58:02Z",
-    "app": "Branded Table Generator"
-  },
-  "gauthambc": {
-    "user": "gauthambc",
-    "action": "heartbeat",
-    "utc": "2026-05-03T13:15:33Z",
-    "expires_utc": "2026-05-03T14:00:33Z",
-    "app": "Branded Table Generator"
-  },
   "benbc": {
     "user": "benbc",
-    "action": "heartbeat",
-    "utc": "2026-05-03T13:20:26Z",
-    "expires_utc": "2026-05-03T14:05:26Z",
+    "action": "login",
+    "utc": "2026-05-07T11:53:40Z",
+    "expires_utc": "2026-05-07T12:38:40Z",
     "app": "Branded Table Generator"
   }
 }
