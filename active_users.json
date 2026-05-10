@@ -8,9 +8,9 @@
   },
   "amybc": {
     "user": "amybc",
-    "action": "login",
-    "utc": "2026-05-10T16:18:42Z",
-    "expires_utc": "2026-05-10T17:03:42Z",
+    "action": "heartbeat",
+    "utc": "2026-05-10T16:18:44Z",
+    "expires_utc": "2026-05-10T17:03:44Z",
     "app": "Branded Table Generator"
   }
 }
