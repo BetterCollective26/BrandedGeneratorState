@@ -1,16 +1,9 @@
 {
-  "amybc": {
-    "user": "amybc",
-    "action": "heartbeat",
-    "utc": "2026-05-10T14:19:37Z",
-    "expires_utc": "2026-05-10T15:04:37Z",
-    "app": "Branded Table Generator"
-  },
   "gauthambc": {
     "user": "gauthambc",
     "action": "heartbeat",
-    "utc": "2026-05-10T14:53:06Z",
-    "expires_utc": "2026-05-10T15:38:06Z",
+    "utc": "2026-05-10T15:06:10Z",
+    "expires_utc": "2026-05-10T15:51:10Z",
     "app": "Branded Table Generator"
   }
 }
