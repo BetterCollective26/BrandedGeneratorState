@@ -5,5 +5,12 @@
     "utc": "2026-05-10T16:18:11Z",
     "expires_utc": "2026-05-10T17:03:11Z",
     "app": "Branded Table Generator"
+  },
+  "amybc": {
+    "user": "amybc",
+    "action": "login",
+    "utc": "2026-05-10T16:18:42Z",
+    "expires_utc": "2026-05-10T17:03:42Z",
+    "app": "Branded Table Generator"
   }
 }
